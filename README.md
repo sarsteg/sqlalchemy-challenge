@@ -7,4 +7,9 @@ Project for UTSA Data Analysis and Visualization Certification.
 
 ## Contents
 
-<img src=""https://github.com/sarsteg/sqlalchemy-challenge/blob/7a3490c04351b55e302f0f7ed41c42daedf308dd/Resources/folder%20icon.png" alt="Folder icon" width="50" height="50"> Analyze Data
+Below are the contents of the repo with a short description.
+
+* Analyze Data folder: Analysis of data found in the Resources folder
+* Climate App folder: App for Climate
+* Resources folder: Data for the project
+* Instructions Module 10 Challenge: Instructions for the project
